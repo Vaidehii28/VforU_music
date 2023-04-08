@@ -26,3 +26,5 @@ Deployment
 This can be deployed to any Web Hosting Service, Platforms like Vercel, Heroku, Replit, Github Pages or through applications like PHP, NodeJS (express.js) or Python(Flask)
 
 Just anything that can serve plain HTML will work.
+
+LIVE LINK: https://vforu-music.netlify.app
